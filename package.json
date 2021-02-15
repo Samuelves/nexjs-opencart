@@ -9,10 +9,13 @@
   },
   "dependencies": {
     "autoprefixer": "^10.2.4",
+    "axios": "^0.21.1",
     "next": "10.0.6",
+    "node-fetch": "^2.6.1",
     "postcss": "^8.2.6",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "tailwindcss": "^2.0.3"
+    "tailwindcss": "^2.0.3",
+    "unfetch": "^4.2.0"
   }
 }
